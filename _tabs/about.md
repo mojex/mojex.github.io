@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About
-
 Hi, I'm **Mojex**, a cybersecurity enthusiast with a strong interest in Security Operations Centers (SOC), Detection Engineering, and Blue Team operations.
 
 Over the past few years, I've been building hands-on experience through personal labs and practical projects, focusing on security monitoring, log analysis, network visibility, and threat detection. I enjoy understanding how systems work internally and designing reliable methods to detect and investigate malicious activity.
