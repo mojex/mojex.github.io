@@ -7,6 +7,10 @@
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/mojex/'                  # Fill with your Linkedin homepage
 
+- type: instagram
+  icon: "fab fa-instagram"
+  url:  'https://www.instagram.com/_mojex_'
+
 # - type: twitter
 #  icon: "fa-brands fa-x-twitter"
 
@@ -14,9 +18,9 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+#- type: rss
+#  icon: "fas fa-rss"
+#  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
